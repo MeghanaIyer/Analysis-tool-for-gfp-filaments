@@ -22,7 +22,6 @@ intensity_vals1 = zeros(size(value1));
 intensity_vals2 = zeros(size(value2));
 value = 0.9; %threshold value
 t=1;
-tt=1;
 
 %%
 
